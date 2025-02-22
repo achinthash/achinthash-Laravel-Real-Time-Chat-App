@@ -93,12 +93,11 @@ npm run dev
 
 ##  Screenshots
 
-<img src="https://github.com/achinthash/Laravel-Real-Time-Chat-App/blob/5821c68f1bed0a71ea5675fb58950e9e131522ea/storage/app/public/Chat-app-1%20.png" width="400" alt="Laravel Logo">
+<img src="https://github.com/achinthash/achinthash-Laravel-Real-Time-Chat-App/blob/ec8556b154b7a85e19d34e81b63afca78c30b991/storage/app/public/Chat-app-1%20.png" width="400" alt="Laravel Logo">
 
-<img src="https://github.com/achinthash/Laravel-Real-Time-Chat-App/blob/5821c68f1bed0a71ea5675fb58950e9e131522ea/storage/app/public/Chat-app-2.png" width="400" alt="Laravel Logo">
+<img src="https://github.com/achinthash/achinthash-Laravel-Real-Time-Chat-App/blob/ec8556b154b7a85e19d34e81b63afca78c30b991/storage/app/public/Chat-app-2.png" width="400" alt="Laravel Logo">
 
-<img src="https://github.com/achinthash/Laravel-Real-Time-Chat-App/blob/40ce033a1de813c356f753ca794eaeaf9d9d37f2/storage/app/public/Chat-app-3.png " width="400" alt="Laravel Logo">
-
+<img src="https://github.com/achinthash/achinthash-Laravel-Real-Time-Chat-App/blob/ec8556b154b7a85e19d34e81b63afca78c30b991/storage/app/public/Chat-app-3.png" width="400" alt="Laravel Logo">
 
 
 ---
